@@ -1,0 +1,17 @@
+.box1{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-image: radial-gradient(cyan, yellow);
+}
+#id1{
+    border: 1px solid black;
+    text-align: center;
+    width: 60%;
+    height: 70%;
+    position: relative;
+    left: 50px;
+    top: 10px;
+    background-image: radial-gradient(circle,rgb(180, 180, 202), red, yellow);
+    background-image: radial-gradient(circle,rgb(180, 180, 202)50%, red 40%, yellow 10%);
+}

@@ -1,0 +1,58 @@
+.heading{
+    background-image: linear-gradient(to top, green, cyan);
+    border: 1px solid black;
+}
+.box{
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(white,pink);
+    margin: 20px;
+}   
+.paraclass{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    width: 70%;
+    position: relative;
+    left: 10px;
+    background-image: linear-gradient(white, skyblue);
+}
+.paraclass1{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    width: 70%;
+    position: relative;
+    left: 10px;
+    /* background-image: linear-gradient(white, skyblue); */
+}
+.paraclass1:hover{
+    background-color: aqua;
+}
+.paraclass2{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    width: 70%;
+    position: relative;
+    left: 10px;
+    
+}
+.paraclass2:hover{
+    background-color: aqua;
+}
+.box1{
+    border: 1px solid black;
+    height: 350px;
+    width: 200px;
+    background-image: linear-gradient(to right, orange,white, green);
+    margin: 20px;
+}  
+.box2{
+    border: 1px solid black;
+    height: 200px;
+    width: 300px;
+    background-image: linear-gradient(to left ,rgb(225, 50, 50),rgb(15, 215, 102));
+    margin: 20px;
+}   
